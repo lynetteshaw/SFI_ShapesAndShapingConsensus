@@ -1,4 +1,4 @@
-# The shapes and shaping of consensus in online conversations
+## The shapes and shaping of consensus in online conversations
 
 Large scale, pseudo-anonymous online discussion forums are now ubiquitous throughout society. They have also arguably become one of the most significant new forces of our time in both capturing and shaping mass public opinion. Many have been rightly concerned that these new spheres of public discourse bear some responsibility for the well-documented rise of political polarization and cross-group antipathy at the national level. In response to these concerns, a new field of "Civic Technology" has emerged with an aim of exploring how digital platforms might be designed to more actively foster civility and consensus in such discussions. 
 
