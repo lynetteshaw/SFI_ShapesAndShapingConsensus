@@ -1,0 +1,6 @@
+[submodule "Data/Polis/Raw/openData"]
+	path = Data/Polis/Raw/openData
+	url = https://github.com/pol-is/openData.git
+[submodule "Data/Polis/openData"]
+	path = Data/Polis/openData
+	url = https://github.com/pol-is/openData.git
